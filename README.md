@@ -4,7 +4,7 @@
 <img src="/layoutWebPage.jpeg" alt="Layout de como a página deve ficar após criada">
 
 <ul>
-    <caption>Recursos utilizados para a criação da página:</caption>
+    <caption><h2>Recursos utilizados para a criação da página:</h2></caption>
     <li>HTML Semântico</li>
     <li>CSS</li>
     <li>Flexbox</li>
